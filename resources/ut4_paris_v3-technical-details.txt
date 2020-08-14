@@ -1,0 +1,11 @@
+The font used on the levelshot is Optimus Princeps Semi-Bold
+( http://www.ffonts.net/OptimusPrincepsSemiBold.font )
+
+Light stage:
+-fast -patchshadows -samples 2 -samplesize 2 -bounce 64 -bouncescale 2
+
+Compiled with q3map2_fs_20g
+
+Hugs and kisses,
+JRandomNoob,
+2016-09-12
