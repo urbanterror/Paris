@@ -1,0 +1,76 @@
+================================================================================
+* Urban Terror Level * 
+--------------------------------------------------------------------------------
+Title	: Paris
+Author	: Clatoo
+Date	: 2009, updated for Quake!HD in 2011, rebuilt by JRandomNoob in 2016
+
+--------------------------------------------------------------------------------
+* Level Description *
+--------------------------------------------------------------------------------
+
+As its name indicates the action takes place in the French city of Paris.
+
+Free for All (FFA)		: Yes
+Last Man Standing (LMS)	: Yes
+Team Deathmatch	(TDM)	: Yes
+Team Survivor (TS)		: Yes
+Capture and Hold (CaH)	: No
+Follow the Leader (FTL)	: No
+Capture the Flag (CTF)	: Yes
+Bomb					: Yes
+
+Bot support				: Yes (they refuse to move in TDM though)
+
+New Textures			: Yes
+New Sounds				: Yes
+
+--------------------------------------------------------------------------------
+* Construction *
+--------------------------------------------------------------------------------
+
+Map base				: Paris HD2 (unfinished, unreleased)
+Prefabs used			: None
+Mapobjects used			: BlackRayne (www.blackrayne.net)
+Editor used				: GTKRadiant 1.5
+Other utilities used	: Photoshop, The GIMP, q3map2_fs_20g
+
+--------------------------------------------------------------------------------
+* Other Levels by Clatoo *
+--------------------------------------------------------------------------------
+
+ut4_crystalpower
+ut4_maximus
+ut4_heroic
+ut4_metropolis
+
+--------------------------------------------------------------------------------
+* Credits *
+--------------------------------------------------------------------------------
+
+Textures				: cgtextures.com
+Textures and models		: BladeKiller
+Mapobjects				: BlackRayne
+Torch model				: OpenArena (GPL)
+
+Posters "Urban Terror Lan 2008 Paris" and "Clan ~SG~"
+and ~SG~ illustrations were done by Kalish
+
+Thanks to
+	id Software -- for the Quake series
+	SID/FS -- for Urban Terror
+	All members of the ~SG~ clan (www.snipersgaulois.com)
+	and Pechnet from ClanBase, ...
+
+--------------------------------------------------------------------------------
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels.
+This map MAY NOT be sold, or in any other way turn into profit for any
+other person than the author. This map MAY be distributed on any media
+as long  as this media is distributed freely without anyone having to
+pay for it. This level is designed for the Quake 3 Total Conversion
+"Urban Terror" and is not to be used, replicated or edited for any
+other Mod, Total Conversion, Game or Game Engine.
+================================================================================
